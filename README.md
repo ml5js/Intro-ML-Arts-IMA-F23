@@ -11,83 +11,83 @@ About Introduction to Machine Learning for the Arts, IMA, Tisch School of the Ar
 
 ### 0: [Intro!](00_intro)
 
-Thursday 9/5
+Thursday 9/7
 
 - Introduction to Machine Learning
 
 ### 1: [ml5.js](01_ml5)
 
-Thursday 9/9
+Thursday 9/14
 
 - Session 1: ml5.js
 - Session 2: Image Classification
 
 ### 2: [Transfer Learning](02_transfer_learning)
 
-Thursday 9/16
+Thursday 9/21
 
 - Session 1: Transfer Learning with Teachable Machine
 - Session 2: Transfer learning with ml5.js
 
 ### 3: [Machine Learning Models](03_ml_models)
 
-Thursday 9/23
+Thursday 9/28
 
 - Session 1: Pre-trained models 1
 - Session 2: Pre-trained models 2
 
 ### 4: [Training a Model](04_training)
 
-Thursday 9/30
+Thursday 10/5
 
 - Session 1: Real-Time Data Collection
 - Session 2: Real-Time Model Training
 
 ### 5: [Convolutional Neural Networks](05_cnn)
 
-Thursday 10/7
+Thursday 10/12
 
 - Session 1: Image Data
 - Session 2: Convolutional Neural Networks
 
 ### 6: [What are data?](06_data)
 
-Thursday 10/14
+Thursday 10/19
 
 - Session 1: Working with Data 1
 - Session 2: Working with Data 2
 
 ### 7: [Face data](07_face)
 
-Thursday 10/21
+Thursday 10/26
 
 - Session 1: Face-api
 - Session 2: Face Mesh
 
 ### 8: [AI Image Generation](08_image_generation)
 
-Thursday 10/28
+Thursday 11/2
 
 - Session 1: Introduction to RunwayML
 - Session 2: RunwayML Workshop
 
 ### 9: [Teachable Machine + Arduino](09_arduino)
 
-Thursday 11/4
+Thursday 11/9
 
 - Session 1: Teachable Machine + Arduino workshop 1
 - Session 2: Teachable Machine + Arduino workshop 2
 
 ### 10: [Final Project Proposals](final)
 
-Thursday 11/11
+Thursday 11/16
 
 - Session 1: Group 1
 - Session 2: Group 2
 
 ### 11: [Final Project Development](final)
 
-Thursday 11/18
+Thursday 11/23
 
 - Session 1: Group 1
 - Session 2: Group 2
@@ -96,14 +96,14 @@ Thursday 11/18
 
 ### 12: [Final Project Testing](final)
 
-Thursday 12/2
+Thursday 11/30
 
 - Session 1: Group 1
 - Session 2: Group 2
 
 ### 13: [Final Project Presentations](final)
 
-Thursday 12/9
+Thursday 12/7
 
 - Session 1: Group 1
 - Session 2: Group 2
