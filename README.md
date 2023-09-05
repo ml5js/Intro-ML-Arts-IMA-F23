@@ -1,93 +1,93 @@
 # Introduction to Machine Learning for the Arts
 
-About Introduction to Machine Learning for the Arts, IMA, Tisch School of the Arts, New York University, Fall 2022
+About Introduction to Machine Learning for the Arts, IMA, Tisch School of the Arts, New York University, Fall 2023
 
 ## Info
 
-- Friday, 5:20 PM - 8:30 PM, 370 Jay Street, Room 409 Loc: Brooklyn Campus
+- Thursday, 5:20 PM - 8:20 PM, 370 Jay Street, Room 412 Loc: Brooklyn Campus, 09/05/2023 - 12/12/2023
 - [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUVtNWtYeW9BX3ZhfGRlZmF1bHR8NDIzN2VhZmY5OTQ4MTM2NTRmY2Q4ODQyY2Q3NDZmM2I)
 
 ## OUTLINE
 
 ### 0: [Intro!](00_intro)
 
-Friday 9/2
+Thursday 9/5
 
 - Introduction to Machine Learning
 
 ### 1: [ml5.js](01_ml5)
 
-Friday 9/9
+Thursday 9/9
 
 - Session 1: ml5.js
 - Session 2: Image Classification
 
 ### 2: [Transfer Learning](02_transfer_learning)
 
-Friday 9/16
+Thursday 9/16
 
 - Session 1: Transfer Learning with Teachable Machine
 - Session 2: Transfer learning with ml5.js
 
 ### 3: [Machine Learning Models](03_ml_models)
 
-Friday 9/23
+Thursday 9/23
 
 - Session 1: Pre-trained models 1
 - Session 2: Pre-trained models 2
 
 ### 4: [Training a Model](04_training)
 
-Friday 9/30
+Thursday 9/30
 
 - Session 1: Real-Time Data Collection
 - Session 2: Real-Time Model Training
 
 ### 5: [Convolutional Neural Networks](05_cnn)
 
-Friday 10/7
+Thursday 10/7
 
 - Session 1: Image Data
 - Session 2: Convolutional Neural Networks
 
 ### 6: [What are data?](06_data)
 
-Friday 10/14
+Thursday 10/14
 
 - Session 1: Working with Data 1
 - Session 2: Working with Data 2
 
 ### 7: [Face data](07_face)
 
-Friday 10/21
+Thursday 10/21
 
 - Session 1: Face-api
 - Session 2: Face Mesh
 
 ### 8: [AI Image Generation](08_image_generation)
 
-Friday 10/28
+Thursday 10/28
 
 - Session 1: Introduction to RunwayML
 - Session 2: RunwayML Workshop
 
 ### 9: [Teachable Machine + Arduino](09_arduino)
 
-Friday 11/4
+Thursday 11/4
 
 - Session 1: Teachable Machine + Arduino workshop 1
 - Session 2: Teachable Machine + Arduino workshop 2
 
 ### 10: [Final Project Proposals](final)
 
-Friday 11/11
+Thursday 11/11
 
 - Session 1: Group 1
 - Session 2: Group 2
 
 ### 11: [Final Project Development](final)
 
-Friday 11/18
+Thursday 11/18
 
 - Session 1: Group 1
 - Session 2: Group 2
@@ -96,14 +96,14 @@ Friday 11/18
 
 ### 12: [Final Project Testing](final)
 
-Friday 12/2
+Thursday 12/2
 
 - Session 1: Group 1
 - Session 2: Group 2
 
 ### 13: [Final Project Presentations](final)
 
-Friday 12/9
+Thursday 12/9
 
 - Session 1: Group 1
 - Session 2: Group 2
