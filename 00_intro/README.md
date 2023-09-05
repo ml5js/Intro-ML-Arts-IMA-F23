@@ -30,7 +30,7 @@
 - [p5.js web editor with Cassie Tarakajian](https://youtu.be/x1rJJRVTpAI)
 - [Code! Programming with p5.js playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 
-## Assignment 1a (due Friday, Sep 9)
+## Assignment 1a (due Thursdat, Sep 14)
 
 1. Create a blog (or category on a blog) for the course. (You may use any means for publishing your assignments including, but not limited to, a GitHub markdown file, medium post, etc.) [This wiki page has resources and information on creating your own blog](https://github.com/ml5js/Intro-ML-Arts-IMA-F22/wiki/Blog-Resources). Additionally, here is some [helpful information on privacy options for your blog](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0012245&sys_kb_id=b2ddc9da004aa1002a5d036a271e5f70&spa=1).
 2. Read [A People’s Guide to AI](https://alliedmedia.org/wp-content/uploads/2020/09/peoples-guide-ai.pdf).
