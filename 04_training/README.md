@@ -21,7 +21,7 @@
 ### Background: Perceptron and Artifical Neural Networks
 
 - [What is a Neural Network?](https://youtu.be/aircAruvnKk?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) by 3Blue1Brown
-- Invented in 1957 by Frank Rosenblatt at the Cornell Aeronautical Laboratory ([original paper](http://www.ling.upenn.edu/courses/cogs501/Rosenblatt1958.pdf)), a perceptron is the simplest neural network possible: a computational model of a single neuron. A perceptron consists of one or more inputs, a processor, and a single output. ([More to this history](https://github.com/ml5js/Intro-ML-Arts-IMA-F22/wiki/Brief-History-of-Artificial-Neural-Networks)
+- Invented in 1957 by Frank Rosenblatt at the Cornell Aeronautical Laboratory ([original paper](http://www.ling.upenn.edu/courses/cogs501/Rosenblatt1958.pdf)), a perceptron is the simplest neural network possible: a computational model of a single neuron. A perceptron consists of one or more inputs, a processor, and a single output. ([More to this history](https://github.com/ml5js/Intro-ML-Arts-IMA-F23/wiki/Brief-History-of-Artificial-Neural-Networks)
 - [NOC Neural Network videos](https://youtu.be/XJ7HLz9VYz0?list=PLRqwX-V7Uu6aCibgK1PTWWu9by6XFdCfh) - 10.1 to 10.3 cover the "Perceptron", a model of a single neuron. The Perceptron forms the basis of modern multi-layer deep learning networks.
 - [Perceptron p5.js code](https://editor.p5js.org/natureofcode/sketches/HkJ0cRmux)
 - [Perceptron Slides](https://drive.google.com/file/d/1io05Uzpb9BclWzXyvB6wEj_Zu4uI_hOX/view?usp=sharing)
@@ -75,6 +75,7 @@
 - 💻 [Train regression model model with Face Keypoints](https://editor.p5js.org/ima_ml/sketches/US3ZX6zCD)
 
 ### Hand Data
+
 - Hand pose tracking + Neural Network, [demo video](https://www.loom.com/share/420fa5941dea411491af817011622c86)
   - [Collect data](https://editor.p5js.org/yining/sketches/dCoPm-Opb)
   - [Train the model](https://editor.p5js.org/yining/sketches/IrBFfXbSF)
@@ -99,4 +100,4 @@
      - Can you add more classification categories?
      - Can you create an interface for training and showing the results of model's prediction?
      - Can you turn this into a regression model?
-4. Complete a blog post with your response, real-time ML system, and documentation of your code exercise and [link from the homework wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F22/wiki/Assignment-4).
+4. Complete a blog post with your response, real-time ML system, and documentation of your code exercise and [link from the homework wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F23/wiki/Assignment-4).

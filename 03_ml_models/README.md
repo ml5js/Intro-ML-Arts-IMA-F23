@@ -45,7 +45,9 @@
 - [BodyPix Webcam](https://editor.p5js.org/ml5/sketches/BodyPix_Webcam)
 
 ## See demos live
+
 [Code](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week3-pose)
+
 - [Posnet](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/PoseNet/)
 - [Posnet Multiple Noses](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/Posenet_mutil_noses) (Detect multiple poses, draw nose on each pose)
 - [Posenet Nose tail](https://yining1023.github.io/machine-learning-for-the-web/week3-pose/Posenet_Nose_Tail) Save nose previous positions
@@ -96,7 +98,7 @@
    - https://editor.p5js.org/yining/sketches/NhSshC1cq (pose + cat)
    - https://editor.p5js.org/yining/sketches/jSnEyDrPw (Bodypix color )
    - https://editor.p5js.org/yining/sketches/pVNmUDn-Z (Object detection)
-6. Considering the [Model and Data Biography](https://docs.google.com/presentation/d/1Ta8oen66-WgrShq4SdAl_hQ1DZnEWoOdC1wMGlIlswM/edit#slide=id.p) reflect on the the following questions:
+5. Considering the [Model and Data Biography](https://docs.google.com/presentation/d/1Ta8oen66-WgrShq4SdAl_hQ1DZnEWoOdC1wMGlIlswM/edit#slide=id.p) reflect on the the following questions:
    - What questions do you still have about the model and the associated data? Are there elements you would propose including in the biography?
    - How does understanding the provenance of the model and its data inform your creative process?
-7. Document your response to the Data and Model biography as well as your p5.js sketch in a blog post and add a link to the post / your p5 sketch on the [Assignment 3 Wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F22/wiki/Assignment-3). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of your sketch.
+6. Document your response to the Data and Model biography as well as your p5.js sketch in a blog post and add a link to the post / your p5 sketch on the [Assignment 3 Wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F23/wiki/Assignment-3). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of your sketch.

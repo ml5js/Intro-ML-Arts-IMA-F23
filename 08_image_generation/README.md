@@ -58,4 +58,4 @@
    - Can you find any pro tips in terms of prompt engineering? Can you change your prompt to make the generated results better?
    - You can also pick one image from [lexica](https://lexica.art) as a start point.
 
-2. Document your thoughts on the above questions and your experience working with Runway/ DALL-E in a blog post. Include screenshots and screen captures of your workflow. Compare and constrast working with Runway as a tool for machine learning as related to ml5.js, python, and any other tools explored this semester. [Link from the homework wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F22/wiki/Assignment-8).
+2. Document your thoughts on the above questions and your experience working with Runway/ DALL-E in a blog post. Include screenshots and screen captures of your workflow. Compare and constrast working with Runway as a tool for machine learning as related to ml5.js, python, and any other tools explored this semester. [Link from the homework wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F23/wiki/Assignment-8).

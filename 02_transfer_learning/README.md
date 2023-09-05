@@ -52,6 +52,7 @@
 - [ml5.js: Save/Load Model - video tutorial](https://youtu.be/eU7gIy3xV30?list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
 
 ### Other demos
+
 - [KNN Image Classifier Video + Square](https://yining1023.github.io/machine-learning-for-the-web/week2-imageClassifier/KNNClassification_VideoSquare/) [Code](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week2-imageClassifier/KNNClassification_VideoSquare)
 - [Regression with feature extractor](https://yining1023.github.io/machine-learning-for-the-web/week2-imageClassifier/FeatureExtractor_Image_Regression/) [Code](https://github.com/yining1023/machine-learning-for-the-web/tree/master/week2-imageClassifier/FeatureExtractor_Image_Regression)
 
@@ -74,4 +75,4 @@ Reflect on the relationship between labels and images in a machine learning imag
    - [Slience kills joy](https://editor.p5js.org/yining/sketches/LZndcN-2u)
    - [Image to Emoji](https://editor.p5js.org/yining/sketches/Xm2lp6wW4)
 
-3. Document your reading reflections and your coding exercise in a blog post and add a link to the post / your p5 sketch on the [Assignment 2 Wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F22/wiki/Assignment-2). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of training the model and working in p5. You may write include both in one post or write two separate posts if you prefer.
+3. Document your reading reflections and your coding exercise in a blog post and add a link to the post / your p5 sketch on the [Assignment 2 Wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F23/wiki/Assignment-2). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of training the model and working in p5. You may write include both in one post or write two separate posts if you prefer.
