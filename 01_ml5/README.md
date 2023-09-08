@@ -48,7 +48,7 @@
 - Classification refers to predicting an output with a discrete set of possibilities like a set of categories or labels. For example: "Given an input image, is it a dog or cat?"
 - Regression refers to predicting an "continuous" output (a fancy way of saying number). For example: "Given the number of bedrooms, what is the price of a house?" or "Given an input image of a cat, how much does the cat weigh?"
 
-- Coding session link: https://editor.p5js.org/yining/sketches/YNDKQZuq6
+#### Coding session link: https://editor.p5js.org/yining/sketches/YNDKQZuq6
 
 ### Reading / Viewing:
 
