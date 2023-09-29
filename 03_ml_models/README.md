@@ -98,6 +98,9 @@
    - https://editor.p5js.org/yining/sketches/NhSshC1cq (pose + cat)
    - https://editor.p5js.org/yining/sketches/jSnEyDrPw (Bodypix color )
    - https://editor.p5js.org/yining/sketches/pVNmUDn-Z (Object detection)
+   - https://editor.p5js.org/yining/sketches/Tb4V-fXaz (trailing)
+   - https://editor.p5js.org/yining/sketches/_qolqm9Bo (Drawing)
+   - https://editor.p5js.org/yining/sketches/I_qrc4y6J (wrist growing rect)
 5. Considering the [Model and Data Biography](https://docs.google.com/presentation/d/1Ta8oen66-WgrShq4SdAl_hQ1DZnEWoOdC1wMGlIlswM/edit#slide=id.p) reflect on the the following questions:
    - What questions do you still have about the model and the associated data? Are there elements you would propose including in the biography?
    - How does understanding the provenance of the model and its data inform your creative process?
