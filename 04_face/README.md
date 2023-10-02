@@ -28,7 +28,7 @@
 - [Customizable AR face masks - Made with TensorFlow.js](https://www.youtube.com/watch?v=TpiGFaHC_5U)
 - [Cat filter](https://neon-scintillating-harpymimus.glitch.me), [code](https://github.com/yining1023/cat-filter)
 
-## Assignment 7
+## Assignment 4
 
 ### Reading
 
