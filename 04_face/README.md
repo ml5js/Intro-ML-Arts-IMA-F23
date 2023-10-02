@@ -19,16 +19,13 @@
 
 - [ml5js - faceapi](https://learn.ml5js.org/#/reference/face-api)
 - [ml5js - faceMesh source](https://github.com/ml5js/ml5-library/blob/development/src/Facemesh/index.js)
-- [ml5js - handPose source](https://github.com/ml5js/ml5-library/blob/development/src/Handpose/index.js)
 - [tfjs - faceapi-js](https://github.com/justadudewhohacks/face-api.js/)
 - [tfjs - faceMesh](https://github.com/tensorflow/tfjs-models/tree/master/facemesh)
-- [tfjs - handPose](https://github.com/tensorflow/tfjs-models/tree/master/handpose)
 
 # Projects
 
 - [LipSync game using Face Mesh model](https://lipsync.withyoutube.com/)
 - [Customizable AR face masks - Made with TensorFlow.js](https://www.youtube.com/watch?v=TpiGFaHC_5U)
-- [fingerspelling](https://fingerspelling.xyz/)
 - [Cat filter](https://neon-scintillating-harpymimus.glitch.me), [code](https://github.com/yining1023/cat-filter)
 
 ## Assignment 7
