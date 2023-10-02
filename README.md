@@ -36,12 +36,12 @@ Thursday 9/28
 - Session 1: Pre-trained models 1
 - Session 2: Pre-trained models 2
 
-### 4: [Training a Model](04_training)
+### 4: [Face models](04_face)
 
 Thursday 10/5
 
-- Session 1: Real-Time Data Collection
-- Session 2: Real-Time Model Training
+- Session 1: Face models
+- Session 2: Coding session
 
 ### 5: [Convolutional Neural Networks](05_cnn)
 
