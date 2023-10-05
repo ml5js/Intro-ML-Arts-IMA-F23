@@ -39,4 +39,4 @@
 
 Pick one of the models (Face api, Face mesh), and following the examples and [ml5.js documentation](http://learn.ml5js.org/) experiment with controlling elements of a p5.js sketch (color, geometry, sound, text) with the output of the model. (You may also choose a ml5.js model not covered here if you like!)
 
-Document your p5.js sketch in a blog post and add a link to the post / your p5 sketch on the [homework wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F23/wiki/Assignment-7). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of your sketch.
+Document your p5.js sketch in a blog post and add a link to the post / your p5 sketch on the [homework wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F23/wiki/Assignment-4). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of your sketch.
