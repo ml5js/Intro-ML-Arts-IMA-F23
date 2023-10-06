@@ -38,6 +38,7 @@
 ### Coding exercise
 - https://editor.p5js.org/yining/sketches/u80fdnoxN (emoji face)
 - https://editor.p5js.org/yining/sketches/oen4j13Ip (face mesh with lines)
+- Mouth + particle system https://github.com/yining1023/100days/blob/master/day34-facetracking-mouth/sketch.js
 
 Pick one of the models (Face api, Face mesh), and following the examples and [ml5.js documentation](http://learn.ml5js.org/) experiment with controlling elements of a p5.js sketch (color, geometry, sound, text) with the output of the model. (You may also choose a ml5.js model not covered here if you like!)
 
