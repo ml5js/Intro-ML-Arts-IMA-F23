@@ -14,6 +14,7 @@
 - <img src="https://raw.githubusercontent.com/yining1023/machine-learning-for-the-web/master/week4-soundClassifier/images/sound-circuit.jpeg" alt="sound_circuit" width="300px"><img src="https://github.com/yining1023/machine-learning-for-the-web/blob/master/week4-soundClassifier/images/sound-demo.png?raw=true" alt="sound_demo" width="300px">
 
 #### Steps
+
 ```
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
@@ -28,6 +29,7 @@ void loop() {
   delay(1000);                       // wait for a second
 }
 ```
+
 https://teachablemachine.withgoogle.com/models/80pkk7maP/
 
 1. [Download](https://www.arduino.cc/en/main/software) Arduino IDE
@@ -102,5 +104,3 @@ https://teachablemachine.withgoogle.com/models/80pkk7maP/
 - [Move that Little Dude](https://dylandawkinsblog.wordpress.com/2019/05/08/machine-learning-for-web-final/)
 
 ### Assignment
-
-Prepare a final project proposal. Follow the [Final Project Guidelines](final).
