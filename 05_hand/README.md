@@ -6,6 +6,14 @@
 
 ## Examples
 
+- New ml5js next gen handpose ([ml5 next gen](https://github.com/ml5js/ml5-next-gen), [All examples](https://github.com/ml5js/ml5-next-gen/tree/main/examples))
+
+  - [handpose start and stop](https://editor.p5js.org/yining/sketches/PLf5QNeFA)
+  - [handpose keypoints](https://editor.p5js.org/yining/sketches/H7qZS8iMF)
+  - [handpose parts](https://editor.p5js.org/yining/sketches/2WwwqrhNl)
+  - [handpost image](https://editor.p5js.org/yining/sketches/624wmm2X5)
+  - New body pose blaze pose [Blazepose-keypoints-ml5-next-gen](https://editor.p5js.org/yining/sketches/2WEyiBBNq) (more points, more stable)
+
 - [Handpose_Image](https://yining1023.github.io/machine-learning-for-the-web/face-hand/Handpose/Handpose_Image)
 - [Handpose_Webcam](https://yining1023.github.io/machine-learning-for-the-web/face-hand/Handpose/Handpose_Webcam)
 - Training hand pose model
