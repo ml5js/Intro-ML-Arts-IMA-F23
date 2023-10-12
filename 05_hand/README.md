@@ -45,6 +45,7 @@
 ### Coding exercise
 
 - [ml5js-next-gen template](https://editor.p5js.org/yining/sketches/naAUksCCh)
+- [handpose keypoints](https://editor.p5js.org/yining/sketches/3_ZAxFgM8)
 
 Use the HandPose model, and following the examples and [ml5.js documentation](http://learn.ml5js.org/) experiment with controlling elements of a p5.js sketch (color, geometry, sound, text) with the output of the model. (You may also choose a ml5.js model not covered here if you like!)
 
