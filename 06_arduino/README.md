@@ -104,8 +104,9 @@ https://teachablemachine.withgoogle.com/models/80pkk7maP/
 - [Move that Little Dude](https://dylandawkinsblog.wordpress.com/2019/05/08/machine-learning-for-web-final/)
 
 ### Assignment
-*Video*
+**Video**
 - [ml5.js: Sound Classification](https://www.youtube.com/watch?v=cO4UP2dX944)
-*Coding*
+
+**Coding**
 - Build an interactive browser experiment related to sound/image/pose/hand data, with an Arduino component.
 - Document your p5.js sketch in a blog post and add a link to the post / your p5 sketch on the homework wiki. In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of your sketch.
