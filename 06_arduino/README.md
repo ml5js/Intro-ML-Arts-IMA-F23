@@ -1,4 +1,4 @@
-# Week 9 Teachable Machine + Arduino
+# Teachable Machine + Arduino
 
 ## Objectives
 
@@ -11,7 +11,7 @@
 ### Sound Classifier with Arduino and Teachable Machine
 
 - [Demo video](https://youtu.be/bmyncxth3_Y), [Demo made by Cara Neels](https://vimeo.com/363431151)
-- <img src="https://raw.githubusercontent.com/yining1023/machine-learning-for-the-web/master/week4-soundClassifier/images/sound-circuit.jpeg" alt="sound_circuit" width="300px"><img src="https://github.com/yining1023/machine-learning-for-the-web/blob/master/week4-soundClassifier/images/sound-demo.png?raw=true" alt="sound_demo" width="300px">
+- <img src="https://raw.githubusercontent.com/yining1023/machine-learning-for-the-web/master/week4-soundClassifier/images/sound-circuit.jpeg" alt="sound_circuit" width="300px"><img src="https://github.com/yining1023/machine-learning-for-the-web/blob/main/week4-soundClassifier/images/sound-demo.png?raw=true" alt="sound_demo" width="300px">
 
 #### Steps
 
@@ -104,3 +104,8 @@ https://teachablemachine.withgoogle.com/models/80pkk7maP/
 - [Move that Little Dude](https://dylandawkinsblog.wordpress.com/2019/05/08/machine-learning-for-web-final/)
 
 ### Assignment
+*Video*
+- [ml5.js: Sound Classification](https://www.youtube.com/watch?v=cO4UP2dX944)
+*Coding*
+- Build an interactive browser experiment related to sound/image/pose/hand data, with an Arduino component.
+- Document your p5.js sketch in a blog post and add a link to the post / your p5 sketch on the homework wiki. In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of your sketch.
