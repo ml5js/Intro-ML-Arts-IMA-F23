@@ -108,6 +108,7 @@ https://teachablemachine.withgoogle.com/models/80pkk7maP/
 - [ml5.js: Sound Classification](https://www.youtube.com/watch?v=cO4UP2dX944)
 
 Our clap model: https://teachablemachine.withgoogle.com/models/dTlZ9kVJ5/
+Pose regression: https://www.youtube.com/watch?v=lob74HqHYJ0
 
 **Coding**
 - Build an interactive browser experiment related to sound/image/pose/hand data, with an Arduino component.
