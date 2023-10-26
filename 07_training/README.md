@@ -100,4 +100,4 @@
      - Can you add more classification categories?
      - Can you create an interface for training and showing the results of model's prediction?
      - Can you turn this into a regression model?
-4. Complete a blog post with your response, real-time ML system, and documentation of your code exercise and [link from the homework wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F23/wiki/Assignment-4).
+4. Complete a blog post with your response, real-time ML system, and documentation of your code exercise and [link from the homework wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F23/wiki/Assignment-7).
