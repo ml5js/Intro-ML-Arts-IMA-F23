@@ -86,7 +86,7 @@
 - [ml5 Playful Examples](https://ml5-fellowship-2020.github.io/examples/) by Andreas Refsgaard
 - [Creatability](https://experiments.withgoogle.com/collection/creatability)
 
-### Assignment 4
+### Assignment
 
 1. Watch [Machine Learning for Human Creative Practice](https://vimeo.com/287094397), Dr. Rebecca Fiebrink at Eyeo 2018. Write a response to the following question posed by Dr. Fiebrink:
    - How can machine learning support people's existing creative practices? Expand people's creative capabilities?
