@@ -43,49 +43,48 @@ Thursday 10/5
 - Session 1: Face models
 - Session 2: Coding session
 
-### 5: [Convolutional Neural Networks](05_cnn)
+### 5: [Hand models](05_hand)
 
 Thursday 10/12
+
+- Session 1: hand models
+- Session 2: Coding session
+
+### 6: [Teachable Machine + Arduino](06_arduino)
+
+Thursday 10/19
+
+- Teachable Machine + Arduino workshop 1
+
+### 7: [Training a model](07_training)
+
+Thursday 10/26
+
+- Session 1: Real-Time Data Collection
+- Session 2: Real-Time Model Training
+
+### 8: [Convolutional Neural Networks](07_cnn)
+
+Thursday 11/2
 
 - Session 1: Image Data
 - Session 2: Convolutional Neural Networks
 
-### 6: [What are data?](06_data)
+### 9: [What are data?](09_data)
 
-Thursday 10/19
+Thursday 11/9
 
 - Session 1: Working with Data 1
 - Session 2: Working with Data 2
 
-### 7: [Face data](07_face)
+### 10: [AI Image Generation](08_image_generation)
 
-Thursday 10/26
-
-- Session 1: Face-api
-- Session 2: Face Mesh
-
-### 8: [AI Image Generation](08_image_generation)
-
-Thursday 11/2
+Thursday 11/16
 
 - Session 1: Introduction to RunwayML
 - Session 2: RunwayML Workshop
 
-### 9: [Teachable Machine + Arduino](09_arduino)
-
-Thursday 11/9
-
-- Session 1: Teachable Machine + Arduino workshop 1
-- Session 2: Teachable Machine + Arduino workshop 2
-
-### 10: [Final Project Proposals](final)
-
-Thursday 11/16
-
-- Session 1: Group 1
-- Session 2: Group 2
-
-### 11: [Final Project Development](final)
+### 11: [Final Project Proposals](final)
 
 Thursday 11/23
 
