@@ -85,6 +85,7 @@
 
 - [ml5 Playful Examples](https://ml5-fellowship-2020.github.io/examples/) by Andreas Refsgaard
 - [Creatability](https://experiments.withgoogle.com/collection/creatability)
+- [Body Synth](https://experiments.withgoogle.com/body-synth)
 
 ### Assignment
 
