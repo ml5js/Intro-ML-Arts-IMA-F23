@@ -37,7 +37,7 @@
 - [MARtLET](https://vimeo.com/19980514) by Michelle Nagai
 - [From the Waters](https://www.youtube.com/watch?v=k6dwnr5RDow) by Anne Hege
 - [This Is Not A Theremin](https://sofiaitp.wordpress.com/2018/12/04/this-is-not-a-theremin/) by Guillermo Montecinos and Sofía Suazo
-- [Eye Conductor](https://andreasrefsgaard.dk/project/eye-conductor/) by Andreas Refsgaard
+- [Eye Conductor]([https://andreasrefsgaard.dk/project/eye-conductor/](https://www.andreasrefsgaard.dk/projects/eye-conductor/)) by Andreas Refsgaard
 
 ### Machine Learning for Human Creative Practice
 
