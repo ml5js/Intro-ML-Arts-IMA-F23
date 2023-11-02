@@ -56,7 +56,7 @@
 - color dataset: https://raw.githubusercontent.com/ml5js/ml5-library/main/examples/p5js/NeuralNetwork/NeuralNetwork_color_classifier/data/colorData_small.json
 - https://editor.p5js.org/yining/sketches/zYXhVuyPw
 
-## Assignment 5b
+## Assignment
 
 For this assignment it's up to you to select an exercise building off of the multiple data collection and model training scenarios we've examined in weeks 4-6. Here are three scenarios to choose from to help you get started. (To be clear, just pick one or combine into one assignment, do not do all three!)
 
