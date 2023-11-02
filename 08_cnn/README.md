@@ -78,7 +78,7 @@
 
 - In class: https://editor.p5js.org/yining/sketches/LYg2Dw0mB
 
-## Assignment 5a
+## Assignment
 
 ### Reading
 
