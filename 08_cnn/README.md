@@ -13,8 +13,8 @@
 ### Quick, Draw! Data
 
 - [Data and Documentation](https://github.com/googlecreativelab/quickdraw-dataset)
-- [Video tutorial: Replaying Drawings with node server](https://thecodingtrain.com/CodingChallenges/122.1-quick-draw)
-- [Video tutorial: Replaying Drawings with Google Web API](https://thecodingtrain.com/CodingChallenges/122.2-quick-draw)
+- [Video tutorial: Replaying Drawings with node server](https://thecodingtrain.com/challenges/122-quick-draw)
+- [Video tutorial: Replaying Drawings with Google Web API](https://thecodingtrain.com/challenges/122-quick-draw)
 - [Preparing Data as Images for Doodle Classifer Part 1](https://youtu.be/gX7U6WA7Ffk)
 - [Preparing Data as Images for Doodle Classifer Part 2](https://youtu.be/wMe6qcpD8jI)
 
