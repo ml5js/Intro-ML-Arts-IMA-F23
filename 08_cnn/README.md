@@ -85,6 +85,9 @@
 - [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) by Ujjwal Karn
 - [Exploring and Visualizing an Open Global Dataset](https://research.googleblog.com/2017/08/exploring-and-visualizing-open-global.html) by Google Research
 
+
+- In class, doodlenet: https://editor.p5js.org/yining/sketches/mK5iYrzns
+
 ### Data Research
 
 In preparation for next Thursday's class, find a dataset that interests you! Here are some places to get started:
