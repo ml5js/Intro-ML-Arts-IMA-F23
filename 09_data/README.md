@@ -56,6 +56,7 @@
 - color dataset: https://raw.githubusercontent.com/ml5js/ml5-library/main/examples/p5js/NeuralNetwork/NeuralNetwork_color_classifier/data/colorData_small.json
 - https://editor.p5js.org/yining/sketches/zYXhVuyPw
 - [DoodleNet training template](https://editor.p5js.org/yining/sketches/8BczL-buj)
+- In class: https://editor.p5js.org/yining/sketches/8BczL-buj
 
 ## Assignment
 
