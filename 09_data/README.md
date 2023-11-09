@@ -79,4 +79,4 @@ Try loading JSON or tabular data into a p5.js sketch and train a model. Some sug
 - Augment Lydia Jessup's [311 Calls ml5.js example](https://editor.p5js.org/lydiajessup/sketches/NQ6iRoAM2). You could add an additional input field, customize the interface, or change other parameters of `ml5.neuralNetwork()`.
 - Train a machine learning model in ml5.js with the dataset you picked for part 1 of the assignment.
 
-Complete a blog post with your dataset report and code exercise. [Link from the homework wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F23/wiki/Assignment-5).
+Complete a blog post with your dataset report and code exercise. [Link from the homework wiki](https://github.com/ml5js/Intro-ML-Arts-IMA-F23/wiki/Assignment-9).
