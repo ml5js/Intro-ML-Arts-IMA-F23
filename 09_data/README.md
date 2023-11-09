@@ -62,7 +62,7 @@ For this assignment it's up to you to select an exercise building off of the mul
 
 ### 1: Interactive Real-Time Gesture Data
 
-Continue working on your sketch from [Assignment 4](https://github.com/ml5js/Intro-ML-Arts-IMA-F23/wiki/Assignment-4). What are your next steps? Maybe try breaking it into multiple sketches for saving / loading the trained model? Or try a regression model instead of classification?
+Continue working on your sketch from [Assignment 8](https://github.com/ml5js/Intro-ML-Arts-IMA-F23/wiki/Assignment-8). What are your next steps? Maybe try breaking it into multiple sketches for saving / loading the trained model? Or try a regression model instead of classification?
 
 ### 2: Working with Quick Draw, DoodleNet
 
