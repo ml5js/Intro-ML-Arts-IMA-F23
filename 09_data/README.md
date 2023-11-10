@@ -58,7 +58,7 @@
 - [DoodleNet training template](https://editor.p5js.org/yining/sketches/8BczL-buj)
 - In class:
   - [build your own doodle classifier](https://editor.p5js.org/yining/sketches/8BczL-buj)
-  - [build your own color classigier](https://editor.p5js.org/yining/sketches/vOfc_fky1)
+  - [build your own color classifier](https://editor.p5js.org/yining/sketches/vOfc_fky1)
 
 ## Assignment
 
