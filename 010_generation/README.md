@@ -1,11 +1,11 @@
-# Image Generation
+# Image and Video Generation
 
 ## Objectives
 
 - What is foundation model
 - What is diffusion model
 - Become familiar with Runway and understand how to run new models/tools in the browser.
-- Explore DALL-E 2 image generation tool
+- Explore DALL-E 3 and Midjourney image generation tool
 
 ## Background on RunwayML
 
@@ -36,15 +36,13 @@
 - [Projects Made with RunwayML](https://runwayml.com/madewith/)
 - [AI Video editing workflow](https://twitter.com/paultrillo/status/1584543033449533441)
 
-## Assignment (Due Friday, Nov 4):
-
 #### Reading
 
 - [The new era of foundation models, summarized](https://blog.agermanidis.com/foundation-models-summarized/)
 - [The research origins of Stable Diffusion](https://research.runwayml.com/the-research-origins-of-stable-difussion)
 - [Machine Learning En Plein Air: Building accessible tools for artists](https://medium.com/runwayml/machine-learning-en-plein-air-building-accessible-tools-for-artists-87bfc7f99f6b) by Cristóbal Valenzuela
 
-#### Instructions
+#### Exercise
 
 1. Pick one of the following tools to generate any media(image, video, text, 3D texuture). You can choose a workflow that you worked with in class or a different one. Feel free to try more than one if you like.
 
